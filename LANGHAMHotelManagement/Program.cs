@@ -31,7 +31,7 @@ namespace Assessment2Task2
             new List<RoomAllocation>();
 
         // Replace studentid with your actual student ID.
-        static readonly string fileName = "lhms_studentid.txt";
+        static readonly string fileName = "lhms_850010451.txt";
 
         static void Main(string[] args)
         {
@@ -514,7 +514,7 @@ namespace Assessment2Task2
         // TASK 2: BACKUP FILE
         static void BackupFile()
         {
-            string backupFileName = "lhms_studentid_backup.txt";
+            string backupFileName = "lhms_850010451_backup.txt";
 
             try
             {
